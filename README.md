@@ -5,13 +5,10 @@ Aan het einde van het vorige shorttrack seizoen had ik een discussie met wat med
 Ik heb geen idee met welke bend en/of ronding ervaren shorttrackers in de praktijk rijden. Ik heb op het moment dat ik dit schrijf nog maar 2 seizoenen aan shorttrack gedaan, en wordt dus niet gehinderd door veel kennis of ervaring. Juist omdat ik die kennis over bend en ronding niet heb, en omdat hierover ook erg weinig te vinden is op het internet, leek het me interessant om eens uit te pluizen hoe het zou kunnen werken. Wat hierbij trouwens ook een motivatie was, was het gevoel dat de 'fabrieksinstellingen' van mijn (pre-bent) ijzers mij af en toe tegenhielden. Ga er alsjeblieft niet van uit dat ik in dit document zekerheden verkondig. Ik kan het allemaal helemaal mis hebben, en dan hoor ik het graag.
 
 ## Termen
-* Bend: de buiging van het ijzer in de horizontale richting, wanneer de schaatser rechtop staat.<br>
+* Bend: de buiging van het ijzer in de horizontale richting, wanneer de schaatser rechtop staat.
 ![Bend](bend.jpg)
-<br>
-<br>
-* Ronding / rocker: de buiging van het ijzer in de verticale richting, wanneer de schaatser rechtop staat.<br>
-![Ronding](rocker2.jpg)
-<br>
+* Ronding / rocker: de buiging van het ijzer in de verticale richting, wanneer de schaatser rechtop staat.
+![Ronding](rocker.jpg)
 
 ## De theorie
 Ik ga uit van de aanname dat de combinatie van bend en ronding ervoor moet zorgen dat het ijzer als vanzelf een bocht wil rijden. De straal van die bocht zou gelijk kunnen zijn aan die van de shorttrack-bocht, dus 8 meter, maar ik kan me ook voorstellen dat je de straal kleiner wilt hebben, bijvoorbeeld omdat je wilt dat je ijzer aan het eind van je afzet vanzelf naar binnen draait, of omdat je iemand binnendoor wilt inhalen. Wat voor bocht het ijzer zou moeten rijden laat ik in het midden. Waar het om gaat is dat als je wilt dat je ijzer als vanzelf een bepaalde bocht beschrijft, de daarvoor benodigde bend en ronding worden bepaald door de combinatie van de hoek die je ijzer met het ijs maakt en de straal van de bocht die wilt rijden.
