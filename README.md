@@ -5,9 +5,9 @@ Aan het einde van het vorige shorttrack seizoen had ik een discussie met wat med
 Ik heb geen idee met welke bend en/of ronding ervaren shorttrackers in de praktijk rijden. Ik heb op het moment dat ik dit schrijf nog maar 2 seizoenen aan shorttrack gedaan, en wordt dus niet gehinderd door veel kennis of ervaring. Juist omdat ik die kennis over bend en ronding niet heb, en omdat hierover ook erg weinig te vinden is op het internet, leek het me interessant om eens uit te pluizen hoe het zou kunnen werken. Wat hierbij trouwens ook een motivatie was, was het gevoel dat de 'fabrieksinstellingen' van mijn (pre-bent) ijzers mij af en toe tegenhielden. Ga er alsjeblieft niet van uit dat ik in dit document zekerheden verkondig. Ik kan het allemaal helemaal mis hebben, en dan hoor ik het graag.
 
 ## Termen
-* Bend: de buiging van het ijzer in de horizontale richting, wanneer de schaatser rechtop staat.
+* Bend: de buiging van het ijzer in de horizontale richting, wanneer de schaatser rechtop staat.<br/>
 ![Bend](bend.jpg)
-* Ronding / rocker: de buiging van het ijzer in de verticale richting, wanneer de schaatser rechtop staat.
+* Ronding / rocker: de buiging van het ijzer in de verticale richting, wanneer de schaatser rechtop staat.<br/>
 ![Ronding](rocker.jpg)
 
 ## De theorie
