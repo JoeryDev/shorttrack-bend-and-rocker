@@ -10,7 +10,7 @@ Ik heb geen idee met welke bend en/of ronding ervaren shorttrackers in de prakti
 <br>
 <br>
 * Ronding / rocker: de buiging van het ijzer in de verticale richting, wanneer de schaatser rechtop staat.<br>
-![Rondingocker](rocker.jpg)
+![Ronding](rocker2.jpg)
 <br>
 
 ## De theorie
