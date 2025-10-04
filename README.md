@@ -97,6 +97,7 @@ Met dezelfde vergelijkingen kunnen we ook uitrekenen hoe hard je bij een gegeven
 
 ### De 'fabrieksinstellingen' van pre-bent en pre-rockered ijzers
 Ik heb chatgpt laten uitzoeken met wat voor bend en ronding shorttracker-ijzers vanuit de fabriek zoal worden geleverd. De conclusie daarvan is dat shorttrack-bladen doorgaans worden geleverd met een ronding van 8–10 meter en een pre-bend van 23–25 meter. Merken variëren licht in hun fabrieksinstelling; servicestations passen ronding en bend vaak persoonlijk aan.
+Deze waardes lijken mij redelijk in orde, hoewel een ronding van 10 meter voor een snelle rijder te beperkt is. Een bend van 23+ meter is theoretisch te sterk, maar in de praktijk waarschijnlijk prima omdat ijzer in de bend-richting enigszins flexibel is.
 
 ### Progressive rockers
 ![](ProgressiveRockersSmall.png)<br/>
