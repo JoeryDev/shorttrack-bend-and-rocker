@@ -37,27 +37,24 @@ Zoals je ziet zouden bend en ronding eigenlijk een deel van een ellips moeten zi
 ### Bepaling van de theoretische lichaamshoek. Of: hoe schuin moet je hangen?
 De schaatser moet zowel een horizontale als een verticale kracht leveren. De horizontale kracht zorgt ervoor dat hij de bocht omgaat, de verticale compenseert de zwaartekracht. De verhouding tussen deze krachten bepaalt hoe schuin de schaatser moet hangen.<br/>
 
-Voor kracht geldt in het algemeen:
+Voor kracht geldt in het algemeen:<br/>
 $\LARGE F = m * a$ &nbsp;&nbsp;(kracht = massa * versnelling)<br/>
 
-Om bij een gegeven snelheid v een bocht met een straal R te rijden, moet je versnelling in de richting van het middelpunt van de bocht gelijk zijn aan
-
+Om bij een gegeven snelheid v een bocht met een straal R te rijden, moet je versnelling in de richting van het middelpunt van de bocht gelijk zijn aan<br/>
 $\LARGE a = \frac{v^2}{R}$
 
-Voor de kracht in de bocht geldt daarom:
+Voor de kracht in de bocht geldt daarom:<br/>
+$\LARGE Fh = \frac{m * v^2}{R}$
 
-&nbsp;&nbsp;&nbsp;&nbsp;$\LARGE Fh = \frac{m * v^2}{R}$
-
-Voor de verticale kracht, je gewicht, geldt:
-
-&nbsp;&nbsp;&nbsp;&nbsp;$\LARGE Fv = m * g$
+Voor de verticale kracht, je gewicht, geldt:<br/>
+$\LARGE Fv = m * g$
 
 Dit levert voor de hoek β waaronder de schaatser moet hangen (de theoretische lichaamshoek):<br/>
 ![Body angle](BodyAngle.png)
 
-&nbsp;&nbsp;&nbsp;&nbsp;$\LARGE β = \arctan(\frac{Fv}{Fh})$<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;$\LARGE = \arctan(\frac{m * g}{m * v^2 / R})$<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;$\LARGE = \arctan(\frac{R * g}{v^2})$
+$\LARGE β = \arctan(\frac{Fv}{Fh})$<br/>
+$\LARGE = \arctan(\frac{m * g}{m * v^2 / R})$<br/>
+$\LARGE = \arctan(\frac{R * g}{v^2})$
 
 Het grappige is dat deze theoretische lichaamshoek dus niet afhangt van je gewicht. Hij hangt vooral af van je snelheid (en wel kwadratisch!), en in mindere mate van de bocht die je wilt rijden.
 
