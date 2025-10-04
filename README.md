@@ -43,7 +43,7 @@ Voor kracht geldt in het algemeen:
 
 Om bij een gegeven snelheid v een bocht met een straal R te rijden, moet je versnelling in de richting van het middelpunt van de bocht gelijk zijn aan
 
-&nbsp;&nbsp;&nbsp;&nbsp;$\LARGE a = \frac{v^2}{R}$
+&nbsp;&nbsp;&nbsp;&nbsp;$a = \frac{v^2}{R}$
 
 Voor de kracht in de bocht geldt daarom:
 
