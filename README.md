@@ -10,7 +10,8 @@ Ik heb geen idee met welke bend en/of ronding ervaren shorttrackers in de prakti
 <br>
 <br>
 * Ronding / rocker: de buiging van het ijzer in de verticale richting, wanneer de schaatser rechtop staat.<br>
-![Ronding / rocker](rocker.jpg)
+![Rondingocker](rocker.jpg)
+<br>
 
 ## De theorie
 Ik ga uit van de aanname dat de combinatie van bend en ronding ervoor moet zorgen dat het ijzer als vanzelf een bocht wil rijden. De straal van die bocht zou gelijk kunnen zijn aan die van de shorttrack-bocht, dus 8 meter, maar ik kan me ook voorstellen dat je de straal kleiner wilt hebben, bijvoorbeeld omdat je wilt dat je ijzer aan het eind van je afzet vanzelf naar binnen draait, of omdat je iemand binnendoor wilt inhalen. Wat voor bocht het ijzer zou moeten rijden laat ik in het midden. Waar het om gaat is dat als je wilt dat je ijzer als vanzelf een bepaalde bocht beschrijft, de daarvoor benodigde bend en ronding worden bepaald door de combinatie van de hoek die je ijzer met het ijs maakt en de straal van de bocht die wilt rijden.
