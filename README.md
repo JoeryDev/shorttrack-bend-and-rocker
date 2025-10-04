@@ -116,3 +116,18 @@ We zien hier dus steeds dat de ronding in het midden niet sterk genoeg lijkt, al
 - Bend is minder kritisch dan ronding, omdat het ijzer in de horizontale richting enigszins meebuigt. Als je je schaatsen laat slijpen lijkt het me daarom vooral belangrijk dat je een ronding kiest die sterk genoeg is voor de snelheid die je aan kunt. 
 - De bend past zich vanzelf wel enigszins aan. Hij moet vooral niet te beperkt zijn. Als je iets aan je bend kunt doen, zou ik kiezen voor een bend die wat sterker is dan de theoretische waarde die hoort bij je snelheid en de gekozen ronding.
 
+<!-- MathJax -->
+<script>
+window.MathJax = {
+  tex: {
+    inlineMath: [['$', '$'], ['\\(', '\\)']],
+    displayMath: [['$$','$$'], ['\\[','\\]']]
+  }
+};
+</script>
+<script async id="MathJax-script"
+  src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
+</script>
+
+
+
