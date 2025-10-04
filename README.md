@@ -38,7 +38,7 @@ Zoals je ziet zouden bend en ronding eigenlijk een deel van een ellips moeten zi
 De schaatser moet zowel een horizontale als een verticale kracht leveren. De horizontale kracht zorgt ervoor dat hij de bocht omgaat, de verticale compenseert de zwaartekracht. De verhouding tussen deze krachten bepaalt hoe schuin de schaatser moet hangen.<br/>
 
 Voor kracht geldt in het algemeen:
-
+$F = m * a$
 &nbsp;&nbsp;&nbsp;&nbsp;$\LARGE F = m * a$ &nbsp;&nbsp;(kracht = massa * versnelling)<br/>
 
 Om bij een gegeven snelheid v een bocht met een straal R te rijden, moet je versnelling in de richting van het middelpunt van de bocht gelijk zijn aan
