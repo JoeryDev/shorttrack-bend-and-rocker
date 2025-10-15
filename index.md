@@ -95,6 +95,7 @@ $ronding = \frac{R}{cos(α)}$<br/>
 
 ### Grafiek 2: Best mogelijke rondetijd als functie van ronding, bij een bochtradius van 8 meter.
 Met dezelfde vergelijkingen kunnen we ook uitrekenen hoe hard je bij een gegeven ronding nog door de bocht kunt zonder dat je ijzer de neiging krijgt om rechtdoor te gaan. En aannemende dat je snelheid op de rechte einden daar niet heel erg van zal verschillen, leidt dat tot de best mogelijke rondetijd bij een gegeven ronding. Dat klopt weliswaar niet helemaal, want als je met heel hoge frequentie door de bocht zou stappen, zou je met een te beperkte ronding toch nog hard door de bocht kunnen, maar realistisch gezien hangt de best mogelijke rondetijd alsvolgt af van je ronding:<br/>
+<em>Edit: Bij nader inzien klopt deze stelling niet. Althans, hij klopt zolang je aanneemt dat je precies langs de blokjes moet rijden. Maar als je de bocht wat ruimer neemt kun je wel degelijk sneller dan hier gesteld wordt. In theorie kun je oneindig snel zolang de straal van je ronding niet groter is dan de straal bocht die je wilt rijden. Maar als de straal van je ronding groter is dan de straal van de bocht die je wilt rijden wordt je snelheid wel degelijk gelimiteerd. Ik ben van plan dit artikel binnenkort te updaten en hier dan wat uitgebreider op in te gaan.</em><br/>
 ![Grafiek: Best mogelijke rondetijd als functie van ronding](BestPossibleLapTime.png)
 
 ## Praktijkwaardes voor bend en ronding
