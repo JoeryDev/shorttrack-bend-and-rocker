@@ -118,9 +118,9 @@ ST-9 : 6-6-6.5-7-7.5-8-8.5-9-9.5-10-11-12-12 (center)-11-10-9-8.5-8-7.5-7-6.5-6-
 ST-10 : 6.5-6.5-7-7.5-8-9-9.5-9.5-10-11-12-13-14 (center)-13-12-11-10-9-8.5-8-7.5-7-6.5-6-6 meters every 12.5mm<br/>
 
 We zien hier dus steeds dat de ronding in het midden niet sterk genoeg lijkt, althans volgens de theorie, terwijl die aan de uiteinden juist extreem sterk is.
-</br>
+<br/>
 Ik had eigenlijk mijn twijfels bij het verhaal over gewichtverplaatsing. Ik kan me voorstellen dat je een wat sterkere ronding nodig hebt als je bv aan het eind van de bocht nog even bij iemand binnendoor wilt, maar aangezien de druk op je ijzers dan ook ineens veel sterker wordt, denk ik niet dat je dan voorop je schaatsen wilt staan, want dan val je voorover, en ook niet teveel achterop, want dan val je achterover. Daar staat tegenover dat je je enkel maar 1 graad naar voren of achter hoeft te kantelen om het centrale drukpunt waar je ijzer het ijs raakt 15cm naar voren of achter te bewegen. Misschien gaat het dus niet zozeer over gewichtsverplaatsing, maar meer over het naar voren of achteren kantelen van je enkel.<br/>
-</br>
+<br/>
 Nadat ik de eerste versie van dit document schreef, besloot ik zo'n variabele ronding eens uit te proberen. De precieze waardes ervan zijn te zijn te zien als de voorbeeld-waardes in [mijn tooltje om bend en ronding te meten](https://joerydev.github.io/bend-and-rocker-measuring-tool/).Hoewel ik enorm veel verschil merk en nu veel meer controle heb over hoe de schaats zich gedraagt in de bocht, heb ik nog steeds het idee dat het ijzer voorkomt dat ik de bocht heel krap kan nemen als ik wat harder ga. In het midden hebben mijn ijzers dan ook een ronding van 12 meter, wat niet rond genoeg is. Ik heb niet het idee dat mijn pogingen om het ijzer wat te kantelen om zodoende meer voorop of achterop het ijzer te staan veel effect hebben. In elk geval hebben die pogingen al voor diverse valpartijen gezorgd. Misschien dat dat beter wordt met meer oefening, maar eerlijk gezegd lijkt het me veel makkelijker om gewoon een ronding van 8 a 9 meter te nemen.
 
 ## Conclusies:
