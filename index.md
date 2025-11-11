@@ -1,5 +1,11 @@
+---
+layout: none
+---
+<link rel="stylesheet" href="style.css">
+
 # Bend en Ronding bij shorttrack
-##### Version 1.1, by joerydev, october 2025
+##### Version 1.2, by joerydev, november 2025
+Zie ook [mijn tooltje om ronding en bend te meten](https://joerydev.github.io/bend-and-rocker-measuring-tool/)
 
 Aan het einde van het vorige shorttrack seizoen had ik een discussie met wat mede-shorttrackers over bend en ronding. Eigenlijk leek niemand te weten hoe het nou precies zat. Ik had zelf al wel wat zitten puzzelen op dit onderwerp, en beloofde een en ander eens op papier te zetten. Bij deze het resultaat.
 
