@@ -1,4 +1,6 @@
 # Bend en Ronding bij shorttrack
+##### Version 1.1, by joerydev, october 2025
+
 Aan het einde van het vorige shorttrack seizoen had ik een discussie met wat mede-shorttrackers over bend en ronding. Eigenlijk leek niemand te weten hoe het nou precies zat. Ik had zelf al wel wat zitten puzzelen op dit onderwerp, en beloofde een en ander eens op papier te zetten. Bij deze het resultaat.
 
 ## Disclaimer
