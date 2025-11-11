@@ -1,6 +1,6 @@
     :root {
       --bg: #0b0c10;
-      --card: #121318;
+      --card: #1a1b22;
       --ink: #f2faf3;
       --muted: #c69f9f;
       --accent: #6ea8fe;
@@ -8,7 +8,7 @@
       --data-row-font: 12px/1.5 ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace;
     }
     html, body {
-      margin: auto;
+      margin: 24px auto;
       padding: 0;
       max-width: 1200px;
       background: var(--bg);
