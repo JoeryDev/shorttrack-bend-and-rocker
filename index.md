@@ -1,7 +1,3 @@
----
-layout: default
----
-
 # Bend en Ronding bij shorttrack
 Aan het einde van het vorige shorttrack seizoen had ik een discussie met wat mede-shorttrackers over bend en ronding. Eigenlijk leek niemand te weten hoe het nou precies zat. Ik had zelf al wel wat zitten puzzelen op dit onderwerp, en beloofde een en ander eens op papier te zetten. Bij deze het resultaat.
 
@@ -133,6 +129,3 @@ window.MathJax = {
 <script async id="MathJax-script"
   src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
 </script>
-
-
-
